@@ -4,7 +4,7 @@ import java.util.List;
 public class ListOfMovies {
     static void main() {
         List<String> films = new ArrayList<>();
-        films.add("Титанік");
+
         films.add("Матриця");
         films.add("Інтерстеллар");
         films.add("Матриця");
