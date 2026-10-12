@@ -9,6 +9,7 @@ public class ListOfMovies {
         films.add("Інтерстеллар");
         films.add("Матриця");
         films.add("fight club");
+        System.out.println(films.get(4));
         int filmIndex = films.indexOf("Матриця");
         System.out.println(filmIndex);
 
